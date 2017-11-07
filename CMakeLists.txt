@@ -1,4 +1,4 @@
-cmake_minimal_required (VERSION 2.6)
+cmake_minimum_required (VERSION 2.6)
 project (travis-octodad)
 
 # the version number.
